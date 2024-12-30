@@ -300,9 +300,9 @@ nav ul a:hover {
 } */
 
 .skills {
-   background-color: rgb(30, 30, 30);
+   background-color: rgb(15, 15, 15);
    padding: 30px 29px;
-   border-radius: 2rem;
+   border-radius: 1rem;
    width: auto;
    height: auto;
    color: white;
